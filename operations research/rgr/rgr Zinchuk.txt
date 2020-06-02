@@ -1,0 +1,34 @@
+Find minimum of function f(x) = 5(x1-8)**2 + x1x2 + 3x2**2
+Minimum reached at X = [8.136, -1.355] and value equal -5.434
+
+
+--Iteration 1--
+ Direction = [0, 1], point = [14.4, 14.4]
+Lambda interval = [-22.401142827989823, -6.10940258945177]
+Dichotomy method for optimal lambda. Lambda Value = -16.81179517901385
+New dote [14.4, -2.4117951790138488]
+
+
+--Iteration 2--
+ Direction = [1, 0], point = [14.4, -2.4117951790138488]
+Lambda interval = [-10.2204016766907, -4.380172147153157]
+Golden ratio method for optimal lambda. Lambda Value = -6.157540355763857
+New dote [8.242459644236144, -2.4117951790138488]
+
+
+--Iteration 3--
+ Direction = [0, 1], point = [8.242459644236144, -2.4117951790138488]
+Lambda interval = [0, 1.7176134253361655]
+DSK method for optimal lambda. Lambda Value = 1.0380519049744918
+New dote [8.242459644236144, -1.373743274039357]
+
+
+--Iteration 4--
+ Direction = [-0.9860859014061689, 0.16623656351111024], point = [8.242459644236144, -1.373743274039357]
+Lambda interval = (-0.8356154113575802, 0.8356154113575802)
+DSK method for optimal lambda. Lambda Value = 0.10837411271814748
+New dote [8.135593459607376, -1.3557275339675263]
+
+
+
+End of calculation via reaching criteria of ending
